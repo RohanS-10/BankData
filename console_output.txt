@@ -1,0 +1,2 @@
+Hello, this is console output.
+[1] "More console output."
